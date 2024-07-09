@@ -31,10 +31,3 @@ Como Analista de Dados, é comum receber conjuntos de dados que precisam de prep
 7. **Remoção de Registros com Valores Nulos na Coluna 'Date'**
    - Remoção de registros onde a coluna 'Date' possui valores nulos após o tratamento.
 
-## Como Executar
-
-Para executar o código fornecido neste repositório, é recomendado ter Python instalado junto com a biblioteca Pandas. Siga os passos abaixo:
-
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
