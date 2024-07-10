@@ -1,4 +1,4 @@
-# Tratamento de Dados com Python e Pandas
+# Tratamento de Dados com Python e Pandas 🐼
 
 ## Descrição
 Este repositório contém um exemplo prático de como limpar e preparar um conjunto de dados para análise usando Python e a biblioteca Pandas. O objetivo é demonstrar passo a passo como transformar dados brutos em um formato adequado para mineração e análise de dados.
